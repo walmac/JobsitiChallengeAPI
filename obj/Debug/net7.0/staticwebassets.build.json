@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NIi301glNJ6GxgMHVrt6SCsRrbR2oMvRXONj56fzt2M=",
+  "Source": "JobsityChallengeAPI",
+  "BasePath": "_content/JobsityChallengeAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
